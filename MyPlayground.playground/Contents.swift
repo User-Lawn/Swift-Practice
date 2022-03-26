@@ -81,14 +81,24 @@ import UIKit
 //var emptyArray2: [Any] = Array<Any>()
 //
 
-typealias StrinIntDictionary = [String:Int]
+//dictionary를 공부합니다.
+//typealias StrinIntDictionary = [String:Int]
 
 //var numberForName: Dictionary<String, Int> = Dictionary<String, Int>()
 
 //var numberForName: [String, Int] = [String, Int]()
 
-var numberForName : [String: Int] = ["yagom": 100, "chulsoo": 200]
+//var numberForName : [String: Int] = ["yagom": 100, "chulsoo": 200]
+//
+//print(numberForName.isEmpty)
+//print(numberForName.count)
+//
 
-print(numberForName.isEmpty)
-print(numberForName.count)
+//var names: Set<String> = Set<String>()
+//var names2: Set<String> = []
+
+var names: Set<String> = ["yagom", "chulsoo", "younghee", "yagom"]
+
+print(names.isEmpty)
+print(names.count)
 
