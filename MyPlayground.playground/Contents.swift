@@ -51,17 +51,23 @@ import UIKit
 //print("floatValue: \(floatValue) doubleValue: \(doubleValue)")
 
 //character와 string을 공부합니다
-let alphabetA: Character = "A"
-print(alphabetA)
+//let alphabetA: Character = "A"
+//print(alphabetA)
+//
+//let 한글변수이름: Character = "ㄱ"
+//print("한글의 첫 자음: \(한글변수이름)")
+//
+//let name: String = "yagom"
+//
+//var introduce: String = String()
+//
+//introduce.append("제 이름은")
+//
+//introduce = introduce + " " + name + "입니다"
+//print(introduce)
 
-let 한글변수이름: Character = "ㄱ"
-print("한글의 첫 자음: \(한글변수이름)")
-
-let name: String = "yagom"
-
-var introduce: String = String()
-
-introduce.append("제 이름은")
-
-introduce = introduce + " " + name + "입니다"
-print(introduce)
+//튜플을 공부합니다.
+//var person: (String, Int, Double) = ("yagom", 100, 182.5)
+//
+//print("이름: \(person.0), 나이: \(person.1), 신장: \(person.2)")
+//
