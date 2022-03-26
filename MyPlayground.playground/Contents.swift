@@ -9,7 +9,8 @@ print(constant)
 print(variable)
 */
 
-struct BasicInformation {
+//print 와 dump에 대해 공부합니다
+/* struct BasicInformation {
     let name: String
     var age: Int
 }
@@ -30,3 +31,8 @@ dump(yagomInfo)
 
 print(yagom)
 dump(yagom)
+*/
+
+//보간법에 대해 공부합니다.
+let name: String = "yagom"
+print("My name is \(name)")
