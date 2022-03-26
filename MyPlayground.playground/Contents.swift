@@ -34,5 +34,14 @@ dump(yagom)
 */
 
 //보간법에 대해 공부합니다.
-let name: String = "yagom"
-print("My name is \(name)")
+//let name: String = "yagom"
+//print("My name is \(name)")
+
+//bool에 대해 공부합니다
+//var boolean: Bool = true
+//boolean.toggle()
+//let iLoveYou: Bool = true
+//let isTimeUnlimited: Bool = false
+//print("시간은 무한합니까?: \(isTimeUnlimited)")
+
+
