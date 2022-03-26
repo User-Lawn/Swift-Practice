@@ -80,3 +80,15 @@ import UIKit
 //var emptyArray: [Any] = [Any]()
 //var emptyArray2: [Any] = Array<Any>()
 //
+
+typealias StrinIntDictionary = [String:Int]
+
+//var numberForName: Dictionary<String, Int> = Dictionary<String, Int>()
+
+//var numberForName: [String, Int] = [String, Int]()
+
+var numberForName : [String: Int] = ["yagom": 100, "chulsoo": 200]
+
+print(numberForName.isEmpty)
+print(numberForName.count)
+
