@@ -71,3 +71,12 @@ import UIKit
 //
 //print("이름: \(person.0), 나이: \(person.1), 신장: \(person.2)")
 //
+
+//Array를 공부합니다
+//var names: Array<String> = ["yagom", "chulsoo", "younghee", "yagom"]
+//
+//var names2: [String] = ["yagom", "chulsoo", "younghee", "yagom"]
+//
+//var emptyArray: [Any] = [Any]()
+//var emptyArray2: [Any] = Array<Any>()
+//
