@@ -97,8 +97,10 @@ import UIKit
 //var names: Set<String> = Set<String>()
 //var names2: Set<String> = []
 
-var names: Set<String> = ["yagom", "chulsoo", "younghee", "yagom"]
-
-print(names.isEmpty)
-print(names.count)
+//set을 공부합니다.
+//var names: Set<String> = ["yagom", "chulsoo", "younghee", "yagom"]
+//
+//print(names.isEmpty)
+//print(names.count)
+//
 
